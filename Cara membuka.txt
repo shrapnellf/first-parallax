@@ -1,0 +1,6 @@
+Cara membuka :
+1. Klik kanan pada file index.html
+2. Pilih open with
+3. Pilih software browser yang sudah terinstall
+
+Mohon maaf jika ribet bu. Belum sempat saya bikin online.
